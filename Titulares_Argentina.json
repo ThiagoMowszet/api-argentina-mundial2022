@@ -1,0 +1,81 @@
+{
+    "Argentina": [
+        {
+            "Nombre": "Emiliano",
+            "Apellido": "Martinez",
+            "Posicion": "Arquero",
+            "Equipo": "Aston Villa",
+            "Numero": 23
+        },
+        {
+            "Nombre": "Nahuel",
+            "Apellido": "Molina",
+            "Posicion": "Defensor",
+            "Equipo": "Udinese",
+            "Numero": 26
+        },
+        {
+            "Nombre": "Cristian",
+            "Apellido": "Romero",
+            "Posicion": "Defensor",
+            "Equipo": "Tottenham",
+            "Numero": 13
+        },
+        {
+            "Nombre": "Lisando",
+            "Apellido": "Martinez",
+            "Posicion": "Defensor",
+            "Equipo": "Manchester United",
+            "Numero": 25
+        },
+        {
+            "Nombre": "Nicolas",
+            "Apellido": "Tagliafico",
+            "Posicion": "Defensor",
+            "Equipo": "Udinese",
+            "Numero": 26
+        },
+        {
+            "Nombre": "Leandro",
+            "Apellido": "Paredes",
+            "Posicion": "Mediocampista",
+            "Equipo": "Juventus",
+            "Numero": 5
+        },
+        {
+            "Nombre": "Rodrigo",
+            "Apellido": "De Paul",
+            "Posicion": "Mediocampista",
+            "Equipo": "Atletico de Madrid",
+            "Numero": 7
+        },
+        {
+            "Nombre": "Angel",
+            "Apellido": "Di Maria",
+            "Posicion": "Mediocampista",
+            "Equipo": "Juventus",
+            "Numero": 5
+        },
+        {
+            "Nombre": "Lionel",
+            "Apellido": "Messi",
+            "Posicion": "Delantero",
+            "Equipo": "Paris Saint Germain",
+            "Numero": 10
+        },
+        {
+            "Nombre": "Lautaro",
+            "Apellido": "Martinez",
+            "Posicion": "Delantero",
+            "Equipo": "Inter de Milan",
+            "Numero": 22
+        },
+        {
+            "Nombre": "Julian",
+            "Apellido": "Alvarez",
+            "Posicion": "Delantero",
+            "Equipo": "Manchester City",
+            "Numero": 9
+        }
+    ]
+}
